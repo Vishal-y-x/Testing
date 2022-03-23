@@ -1,2 +1,2 @@
 # Testing
-Testing repo telugu shill hub testing skill hub
+Testing repo English skill hub
